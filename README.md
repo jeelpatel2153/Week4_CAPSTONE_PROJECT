@@ -17,7 +17,7 @@ Kaggle House Price Dataset.
 Linear Regression
 
 ## Results
-R² Score: 0.82
+R² Score: 0.68
 
 ## Tools
 Python, Pandas, Scikit-learn, Seaborn
